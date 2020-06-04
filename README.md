@@ -1,4 +1,4 @@
-Assignment 2 - Luxury Homes
+Luxury Homes
 
 Objective: Understand how different parameters afftect property mortgage based on a number of purposes
 
